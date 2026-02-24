@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">Hello World!!, 🚀 About Me:<br>Hi there! I'm a developer from India 🇮🇳 currently transitioning from Class 10 to Class 11. I'm a passionate learner navigating the world of low-level programming and open-source environments.🎓 Current Status: Class 10 Pass | Incoming Class 11 Student.<br><br>🎯 Goal: Future Engineer & JEE Aspirant.<br>🐧 OS of Choice: Fedora (Linux enthusiast).<br>💻 Working On: Strengthening my foundations in C and Python.🛠 Tech StackCategoryTools & LanguagesLanguagesPython, HTML, C (Learning)Editor/IDEVS CodeEnvironmentLinux (Fedora), BashVersion ControlGitHub🌐 Connect With Me If you want to discuss Linux, coding, or just survive the JEE journey together, find me here:<br><br>Discord: --thesudo--<br><br>HereTelegram:@Thesudos <br><br>HereYouTube: Adon whitman <br><br>Email: whitmanadon@gmail.com@gmail.com</p>
+<p align="left">Hello World!!, 🚀 About Me:<br>Hi there! I'm a developer from India 🇮🇳 currently transitioning from Class 10 to Class 11. I'm a passionate learner navigating the world of low-level programming and open-source environments.🎓 Current Status: Class 10 Pass | Incoming Class 11 Student.<br><br>🎯 Goal: Future Engineer & JEE Aspirant.<br>🐧 OS of Choice: Fedora (Linux enthusiast).<br>💻 Working On: Strengthening my foundations in C and Python.🛠 Tech StackCategoryTools & LanguagesLanguagesPython, HTML, C (Learning)Editor/IDEVS CodeEnvironmentLinux (Fedora), BashVersion ControlGitHub🌐 Connect With Me If you want to discuss Linux, coding, or just survive the JEE journey together, find me here:<br><br>Discord: --thesudo--<br><br>HereTelegram:@Thesudos <br><br>HereYouTube: Adon whitman <br><br>Email: whitmanadon@gmail.com</p>
 
 ###
 
